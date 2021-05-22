@@ -14,4 +14,5 @@ Enfin, il faut dire que ça vaut la peine de s'intéresser à Python, c'est un l
 
 Contributing
 
-Open a pull request with changes
+Open a pull request with changes+
+
