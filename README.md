@@ -1,7 +1,7 @@
 # Projet
 Projet Github
 
-Avant-propos
+Description
 
 Durant le projet nous utiliserons le langage Python. Ce n'est pas un langage complexe. Au contraire, la syntaxe est plus claire que d'autres langages et on s'y habitue très vite par rapport à d'autres langages.
 
@@ -12,5 +12,6 @@ Nous utiliserons donc Python pour générer des pages web et pour gérer une bas
 Enfin, il faut dire que ça vaut la peine de s'intéresser à Python, c'est un langage qui sera forcément présent dans l'écosystème informatique des années à venir.
 
 
+Contributing
 
-
+Open a pull request with changes
